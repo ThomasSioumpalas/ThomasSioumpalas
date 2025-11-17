@@ -42,14 +42,22 @@ alt=""/>
 ----
 
   <h2> Future Goals: </h2>
-  
   <div>
+  <div>
+    <p> Short Term One: </p>
     <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-plain-wordmark.svg" />
     <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
     <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg" />
    <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-       </div>     
-          
+  </div>
+    <div>
+      <p> Long Term One: </p>
+    <img width = "50" heigth = "50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+    <img width = "50" heigth = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vyper/vyper-original.svg" />
+    <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-plain.svg" />
+     </div>     
+       </div>   
 
 ---
 
