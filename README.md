@@ -21,7 +21,7 @@ alt=""/>
 
   <ul>
     <li>Passionate entry-level IT professional focused on backend development, system workflows, and data-driven problem-solving.</li>
-    <li>Currently living in code && IT videos/Seminars.</li>
+    <li>Currently living in code && IT Videos/Seminars.</li>
     <li>When not writing code I "read", drink while "Happy-Hours", and engage in shopping therapy.</li>
   </ul>
 
